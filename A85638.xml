@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great victory obtained by His Maiesties Army under the command of his Grace the Duke of Monmouth, against the rebels in the west of Scotland, on Sunday and Monday, being the 22. and 23. of this instant.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85638</idno>
+            <idno type="STC">Wing G1777</idno>
+            <idno type="STC">ESTC R13425</idno>
+            <idno type="EEBO-CITATION">12846764</idno>
+            <idno type="OCLC">ocm 12846764</idno>
+            <idno type="VID">151564</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85638)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151564)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 713:12 or 2265:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great victory obtained by His Maiesties Army under the command of his Grace the Duke of Monmouth, against the rebels in the west of Scotland, on Sunday and Monday, being the 22. and 23. of this instant.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: Edenburgh, 22⁰ Junii, 1679.</note>
+                  <note>Reproductions of originals in Henry E. Huntington Library and Art Gallery and the William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monmouth, James Scott, --  Duke of, 1649-1685.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Scotland --  History --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:151564:1"/>
+            <!-- PDF PAGE 34 -->
+            <head>THE GREAT VICTORY Obtained by His Maieſties Army Under the Command of his GRACE the DUKE of MONMOUTH, Againſt the REBELS In the Weſt of <hi>SCOTLAND,</hi> On <hi>Sunday</hi> and <hi>Monday,</hi> being the 22. and 23. of this Inſtant.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Could not omit giving you an Account, of what happened lately between the Kings Ar<g ref="char:EOLhyphen"/>my and the Rebels, knowing you to be a per<g ref="char:EOLhyphen"/>ſon of great and exemplary Piety, and untainted Loyalty, to whom ſuch news will be altogether grateful. Upon Sunday laſt being the 22d of this
+<pb n="2" facs="tcp:151564:2"/>
+               <!-- PDF PAGE 35 -->
+Inſtant, his Grace the Duke of <hi>Monmouth</hi> march<g ref="char:EOLhyphen"/>ed with the Army under his Command towards the Rebels, and being upon his March he receiv<g ref="char:EOLhyphen"/>ed a Meſſage by a Trumpet from the Rebels, to this effect, <hi>(viz)</hi> That if his Grace was pleaſed to confirm, and agree to thoſe terms they had alrea<g ref="char:EOLhyphen"/>dy made in their laſt Declaration, they would lay down their Arms, but upon no other account. But his Grace contemning to agree to their terms, or to indulge Rebellion at ſuch a rate, contrary to the eſtabliſhed Laws of that Kingdom (drew up his Forces towards them) The Rebels had ſecured <hi>Bottle-bridge,</hi> having ſtrongly Barrocaded it, hav<g ref="char:EOLhyphen"/>ing a very Conſiderable party of Horſe there, and had planted their Army on the other ſide the Ri<g ref="char:EOLhyphen"/>ver, but notwithſtanding that, his Grace made an Attacque upon them with a like party of Horſe; which behaved themſelves with that galantry and Courage, as ſoon cauſed the Rebels to quit their Poſt, with a very conſiderable loſs. His Grace having thus ſuccesfully gained the Bridge, preſent<g ref="char:EOLhyphen"/>ly marched them over and drew up his main body; and after having put them in Batalia, and given ne<g ref="char:EOLhyphen"/>ceſſary orders to his Officers, he engaged their main Body, and after a ſharp diſpute gave them a final rout, deſtroyed moſt of their Horſe, and ſo much diſordering the foot, that few of them eſca<g ref="char:EOLhyphen"/>ped, ſave a ſmall number which fled into the
+<pb n="3" facs="tcp:151564:2"/>
+               <!-- PDF PAGE 35 -->
+Woods about <hi>Hambleton;</hi> Sir, it is incredible to expreſs in what great numbers the Gentry came in to joyn the Kings Forces, and are daily coming in to the great ſatisfaction of all faithful and Loyal Subjects, and to the great hopes of ſpeedily put<g ref="char:EOLhyphen"/>ting an end to theſe Rebellious Inſurrections.</p>
+            <p>Many thouſands are upon their march from the North of <hi>Scotland</hi> chearfully to joyn his Majeſties Forces, which is believed will be ſtopt upon the account of this happy Victory; and had not the Engagment begun ſo ſoon, till ſuch time as theſe Aſſiſtants had joyned the Army, with<g ref="char:EOLhyphen"/>out all doubt the Rebells would have never been able to have made the leaſt eſcape.</p>
+            <p>His Majeſties Privy Council here have been indefa<g ref="char:EOLhyphen"/>tigably careful and induſtrious in ſupplying the King's Army with all things neceſſary, acting as with one head and heart, or rather ſtriving to out-do each other in their Fidelity and Loyalty. And whereas the Rebels made uſe of theſe words in the latter part of their Declaration, <hi>(viz.)</hi> That they requeſted their Country-men, now the ſtanding Forces of this Kingdom, ſome of them being their Friends and Relations, not to fight againſt them, left in ſo doing they ſhould be found fighting againſt the Lord, whoſe Cauſe and Quarrel they were ſure he would own and ſignally countenance, ſeeing they fought under his Banner, who is the Lord of Hoſts.</p>
+            <p>Thoſe whom they thus called their Friends and Kinſ<g ref="char:EOLhyphen"/>men, were ſo ready and vigorous in fighting againſt them, and the happy victory which they obtained over them, ſeems rather to repreſent to every Loyal Subject,
+<pb n="4" facs="tcp:151564:3"/>
+               <!-- PDF PAGE 36 -->
+and impartial mind, that it is not the Lords Cauſe or Quarrel, which they thus pretend to maintain, but rather a fighting againſt God, in Rebelling againſt their lawful and undoubted Soveraign, and his Government, and bringing upon themſelves a Curſe inſtead of a Bleſſing; the Apoſtle declaring, That he that reſiſts ſhall receive damnation.</p>
+            <p>SIR,<lb/>
+This Account I thought good to give you, and by the next expect the Particulars, not doubting but you will accept of it from him who is,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your humble Servant, &amp;c.</signed> 
+               <dateline>Edenburgh, <date>22<hi rend="sup">o</hi> Junii, 1679.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
